@@ -1,7 +1,7 @@
 # DATA SCIENCE 💻
 ------------
 - **1 - DATA SCIENCE**
-- ATENÇÃO: PARA LER O ARQUIVO ENTRE EM `CARROS INDIANOS/ `
+- ATENÇÃO: PARA LER O ARQUIVO ENTRE EM `MANIPULAÇÃO DE CARROS INDIANOS/ JUPYTER.IPYNB `
 - **Descrição:**
 Olá, bom, este é o meu primeiro projeto que deu certo. Tentei umas 2 a 3 vezes em outras planilhas, porém não deu certo. Bom, este projeto foi para fazer uma análise de carros indianos, onde realizei manipulações de strings, filtragens, agregações de dados, etc. Fico muito feliz por ter concluído este código, onde obtive a planilha no Kaggle para enfrentar os desafios. Por enquanto, não estou muito bom, porém pretendo melhorar muito. Irei listar os seguintes desafios que completei.
 # - **🥇 DESAFIOS:**
